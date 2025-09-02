@@ -11,3 +11,6 @@ carpeta(git init) --adición-> Stage(ejemplo.py) --commit-> Repositorio(Ejemplo.
         v              |
              GitHub
 """
+"""
+Brecha en la comunicación: 'Sé que cree que entendio lo que dije, pero no entendio lo que queria decir'
+"""
