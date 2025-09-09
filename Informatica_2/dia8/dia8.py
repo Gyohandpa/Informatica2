@@ -2,7 +2,7 @@
 #Dia 7 YesidORC
 import mysql.connector
 import pymongo
-
+#Nueva Branch que no afecta el contenido principal
 class SistemaBD_MySql:
     def __init__(self, host, user, password, database):
         self.__host = host
